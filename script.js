@@ -20,7 +20,8 @@ const firebaseConfig = {
   appId: "PASTE_YOUR_APP_ID"
 };
 
-const OWNER_EMAIL = "your-owner-email@example.com";
+const OWNER_EMAIL = "johndavidjavier83@gmail.com";
+const OWNER_PASSWORD = "July162005"
 
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
